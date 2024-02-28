@@ -16,9 +16,9 @@ Para começar com este projeto, siga estes passos:
 
 ### Etapa 1: Olá, Mundo!
 
-- [x] Configurar o projeto Angular.
-- [x] Criar um componente básico.
-- [x] Exibir a mensagem "Olá, Mundo!".
+-  Configurar o projeto Angular.
+-  Criar um componente básico.
+-  Exibir a mensagem "Olá, Mundo!".
 
 ## Recursos
 
