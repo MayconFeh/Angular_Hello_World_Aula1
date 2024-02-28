@@ -19,29 +19,6 @@ Para começar com este projeto, siga estes passos:
 - [x] Configurar o projeto Angular.
 - [x] Criar um componente básico.
 - [x] Exibir a mensagem "Olá, Mundo!".
-- [x] Estilizar a aplicação.
-
-### Etapa 2: Construindo Componentes
-
-- [ ] Criar componentes adicionais.
-- [ ] Implementar ligação de dados.
-- [ ] Explorar diretivas do Angular.
-
-### Etapa 3: Serviços e Injeção de Dependência
-
-- [ ] Criar serviços para lidar com dados.
-- [ ] Usar injeção de dependência para fornecer serviços.
-- [ ] Entender o papel dos serviços em aplicações Angular.
-
-### Etapa 4: Roteamento e Navegação
-
-- [ ] Configurar roteamento no Angular.
-- [ ] Criar múltiplas visões/páginas.
-- [ ] Implementar navegação entre visões.
-
-## Contribuições
-
-Se você também está aprendendo Angular e gostaria de contribuir ou fornecer feedback, sinta-se à vontade para abrir um problema ou enviar uma solicitação de recebimento!
 
 ## Recursos
 
