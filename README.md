@@ -12,22 +12,6 @@ Para começar com este projeto, siga estes passos:
 4. Inicie o servidor de desenvolvimento: `ng serve`
 5. Abra seu navegador e vá para `http://localhost:4200/` para visualizar a aplicação.
 
-## Estrutura do Projeto
-
-Angular_Hello_World_Aula1/
-│
-├── src/ # Arquivos de origem
-│ ├── app/ # Componentes, módulos e serviços do Angular
-│ ├── assets/ # Ativos estáticos, como imagens e estilos
-│ ├── environments/ # Configuração de ambiente
-│ ├── index.html # Ponto de entrada HTML
-│ └── ...
-│
-├── angular.json # Configuração do Angular CLI
-├── package.json # Dependências e scripts do projeto
-├── README.md # Documentação do projeto (você está aqui)
-└── ...
-
 ## Progresso de Aprendizado
 
 ### Etapa 1: Olá, Mundo!
